@@ -5,3 +5,4 @@ from conftest import launch_browser
 
 
 def test_web_actions(launch_browser):
+    print("python")
